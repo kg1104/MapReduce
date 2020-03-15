@@ -1,0 +1,10 @@
+com\bigdata\mr\LogBeanWritable.class
+com\bigdata\etl\job\ParseLogJob_1.class
+com\bigdata\mr\LogFieldWritable.class
+com\bigdata\etl\job\ParseLogJob_1$LogMapper.class
+com\bigdata\etl\job\ParseLogJob_1$LogReducer.class
+com\bigdata\etl\job\ParseLogJob_2$LogWritable.class
+com\bigdata\etl\job\ParseLogJob_2$LogMapper.class
+com\bigdata\mr\LogGenericWritable.class
+com\bigdata\etl\job\ParseLogJob_2$LogReducer.class
+com\bigdata\etl\job\ParseLogJob_2.class
